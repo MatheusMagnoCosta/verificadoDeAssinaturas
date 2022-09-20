@@ -30,7 +30,6 @@ https://drive.google.com/file/d/11njkFsxeiYiEAF9fOA8EFR6voO9vwFnt/view?usp=shari
 - [ ] Testar de Integração
 - [ ] Testar de Usabilidade
 - [ ] Testar de Carga e Estresse
-- [ ] Criação do sistema Mobile
 
 ### Tecnologias
 * Python
