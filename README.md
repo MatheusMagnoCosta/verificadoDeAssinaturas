@@ -1,14 +1,10 @@
 
 <h1 align="center">Verificador de Assinaturas</h1>
 
-## Descrição do Projeto
-<p align="left">Este é o repositório do código do vídeo sobre CNN do Youtube do canal Let's Data. Link para o vídeo: <https://youtu.be/n1TUIvazOCg>
-Neste vídeo exploramos mais a fundo machine learning, usando a técnicas de Redes Neurais Convolucionais (Convolutional Neural Networks - CNN). Com um exemplo divertido e usando Pytorch e Transfer Learning, vamos ajudar o saudoso rei do soul Tim Maia a descobrir o que é chocolate, o que é guaraná e o que é coca cola. Com esse vídeo, você vai ter a base para implementar redes neurais convolucionais (CNNs) nos seus projetos. Passamos também pela teoria de CNNs, como elas se diferenciam de redes neurais “normais” (fully connected) e também sobre transfer learning. Por fim, mostramos uma aplicação com Streamlit bem simples e bacana pra implementar o seu classificador de imagens. Tem muito código passo a passo nesse vídeo explicadinho linha por linha para entendermos direitinho!</p>
-
 Sumário
 =================
 <!--ts-->
-   * [Sobre](#Sobre)
+   * [Sobre](#sobre)
    * [Instalação](#instalacao)
    * [Como usar](#como-usar)
       * [Pre Requisitos](#pre-requisitos)
@@ -16,16 +12,24 @@ Sumário
    * [Testes](#testes)
    * [Tecnologias](#tecnologias)
 <!--te-->
-### Features
+### Sobre
+<p align="left">Este é o repositório do código do vídeo sobre CNN do Youtube do canal Let's Data. Link para o vídeo: <https://youtu.be/n1TUIvazOCg>
+Neste vídeo exploramos mais a fundo machine learning, usando a técnicas de Redes Neurais Convolucionais (Convolutional Neural Networks - CNN). Com um exemplo divertido e usando Pytorch e Transfer Learning, vamos ajudar o saudoso rei do soul Tim Maia a descobrir o que é chocolate, o que é guaraná e o que é coca cola. Com esse vídeo, você vai ter a base para implementar redes neurais convolucionais (CNNs) nos seus projetos. Passamos também pela teoria de CNNs, como elas se diferenciam de redes neurais “normais” (fully connected) e também sobre transfer learning. Por fim, mostramos uma aplicação com Streamlit bem simples e bacana pra implementar o seu classificador de imagens. Tem muito código passo a passo nesse vídeo explicadinho linha por linha para entendermos direitinho!</p>
 
-- [ ] Treinar a IA
-- [ ] Testar o código
+### Local files
+https://drive.google.com/file/d/11njkFsxeiYiEAF9fOA8EFR6voO9vwFnt/view?usp=sharing
+
+### Tecnologias
+* Python
+* Node
+
+- [x] Treinar a IA
+- [x] Testar o código
 - [ ] Criação do sistema Mobile
 
 <h4 align="center"> 
 	🚧  Verificador 🚀 Em construção...  🚧
 </h4>
-
 <h3 align="center">Contribuintes</h3>
 <table>
   <tr>
@@ -38,3 +42,4 @@ Sumário
     <td align="center"><a href="https://github.com/juliaNogueiraC"><img style="border-radius: 50%;" src="https://github.com/juliaNogueiraC.png" width="100px;" alt=""/><br /><sub><b>Julia Nogueira</b></sub></a><br /></td>
   </tr>
 </table>
+
